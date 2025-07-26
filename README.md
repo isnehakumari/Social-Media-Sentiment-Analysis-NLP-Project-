@@ -26,17 +26,17 @@ Key Steps in the Project:-
 
 i.Data Cleaning & Preprocessing
 
-ii.Removed stop words, punctuation, and irrelevant text.
+Removed stop words, punctuation, and irrelevant text.
 
-iii.Handled missing values and normalized text for analysis.
+Handled missing values and normalized text for analysis.
 
-iv.Exploratory Data Analysis (EDA)
+ii.Exploratory Data Analysis (EDA)
 
-v.Visualized sentiment distribution across tweets.
+Visualized sentiment distribution across tweets.
 
-vi.Analyzed frequently used positive and negative words using word clouds.
+Analyzed frequently used positive and negative words using word clouds.
 
-vii.Model Building
+iii.Model Building
 
 Converted text into numeric features using TF-IDF and Bag-of-Words.
 
