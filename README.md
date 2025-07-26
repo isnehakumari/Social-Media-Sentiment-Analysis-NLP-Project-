@@ -1,4 +1,5 @@
-Project Overview
+Project Overview<br>
+
 This project focuses on analyzing public sentiment on social media (Twitter) using Natural Language Processing (NLP). The goal is to classify tweets into positive, negative, or neutral sentiments, helping brands and organizations understand public opinion and engagement.
 
 Dataset Details:-
@@ -23,19 +24,19 @@ Missing Values: 11 entries with missing data (should be cleaned before training)
 
 Key Steps in the Project:-
 
-Data Cleaning & Preprocessing
+i.Data Cleaning & Preprocessing
 
-Removed stop words, punctuation, and irrelevant text.
+ii.Removed stop words, punctuation, and irrelevant text.
 
-Handled missing values and normalized text for analysis.
+iii.Handled missing values and normalized text for analysis.
 
-Exploratory Data Analysis (EDA)
+iv.Exploratory Data Analysis (EDA)
 
-Visualized sentiment distribution across tweets.
+v.Visualized sentiment distribution across tweets.
 
-Analyzed frequently used positive and negative words using word clouds.
+vi.Analyzed frequently used positive and negative words using word clouds.
 
-Model Building
+vii.Model Building
 
 Converted text into numeric features using TF-IDF and Bag-of-Words.
 
